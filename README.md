@@ -12,10 +12,7 @@ Penerapan Adapter & ViewHolder: Pemisahan logika logika data dan rendering UI me
 Pencatatan Log System: Menuliskan jumlah data terproses ke Logcat dengan tag `test string`.
 
 ## Spesifikasi & Library
-*Bahasa: Kotlin
-*SDK Minimum: API level 27 (Android 8.1 Oreo)
-*Komponen UI: `RecyclerView`, `CardView`, `ConstraintLayout`
-*Build Tool: Gradle (Kotlin DSL)[cite: 1]
+Bahasa: Kotlin, SDK Minimum: API level 27 (Android 8.1 Oreo), Komponen UI: `RecyclerView`, `CardView`, `ConstraintLayout`, Build Tool: Gradle (Kotlin DSL)[cite: 1]
 
 ## Arsitektur Berkas
 ```text
