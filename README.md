@@ -1,6 +1,6 @@
 # Implementasi List Komponen via RecyclerView
 
-Penugasan Modul 1 - Praktikum Aplikasi Mobile (PAM)
+Penugasan Modul 1 - Pengembangan Aplikasi Mobile (PAM)
 
 ## Ringkasan Proyek
 Aplikasi ini dirancang untuk mendemonstrasikan efisiensi komponen `RecyclerView` dalam menampilkan sekumpulan data berbentuk daftar berurutan pada platform Android. Sistem generate data dummy sebanyak 20 entri secara otomatis dan menampilkannya secara vertikal memakai `CustomAdapter`.
